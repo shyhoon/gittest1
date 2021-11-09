@@ -28,25 +28,22 @@ public class Wrapper_Ex3 {
 		String str11 = "2001";
 		
 		// str10 str11을 덧셈 연산 해주세요
-		int str1 = (Integer.parseInt(str10) + Integer.parseInt(str11));
-		System.out.println(str1);
+		int add = (Integer.parseInt(str10) + Integer.parseInt(str11));
+		System.out.println(add);
 		// 곱셈
-		int str4 = (Integer.parseInt(str10) * Integer.parseInt(str11));
-		System.out.println(str4);
+		int multiple= (Integer.parseInt(str10) * Integer.parseInt(str11));
+		System.out.println(multiple);
 		
 		
 		
+//		System.out.println("문자열 byte값 변환 :" + b);
+//		System.out.println("문자열 int값 변환 :" + i);
+//		
+//		System.out.println(f);
+//		System.out.println(d);
+//		System.out.println(bool);
 		
-		
-		
-		
-		
-		System.out.println("문자열 byte값 변환 :" + b);
-		System.out.println("문자열 int값 변환 :" + i);
-		
-		System.out.println(f);
-		System.out.println(d);
-		System.out.println(bool);
+		// 한글깨짐 확인코드 !!!!!!
 
 		
 	}
