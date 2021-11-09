@@ -1,0 +1,909 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/lib/lightbox/css/lightbox.min.css" /><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/style/content/font.css?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18" /><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/style/content/content.css?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18" /><!--[if lt IE 9]><script src="https://t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script><![endif]--><!--[if gte IE 9]>
+<!--><script src="https://t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.2.1.min.js"></script><!--<![endif]-->
+<script src="https://t1.daumcdn.net/tistory_admin/lib/lightbox/js/lightbox-plus-jquery.min.js"></script>
+<script>
+lightbox.options.fadeDuration = 200;
+lightbox.options.resizeDuration = 200;
+lightbox.options.wrapAround = false;
+lightbox.options.albumLabel = "%1 / %2";
+</script>
+<script>var tjQuery = jQuery.noConflict(true);</script><style type="text/css">.tt_article_useless_p_margin p {padding-top:0 !important;padding-bottom:0 !important;margin-top:0 !important;margin-bottom:0 !important;}</style><meta name="referrer" content="always"><link rel="icon" href="https://tistory1.daumcdn.net/tistory/3677124/06b04a98febe47a6aeb7afb15d449e1b" /><link rel="apple-touch-icon" href="//img1.daumcdn.net/thumb/C180x180/?fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F3677124%2Fattach%2F2c9d13251986432eaabbf395c5a497af">
+<link rel="apple-touch-icon" sizes="76x76" href="//img1.daumcdn.net/thumb/C76x76/?fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F3677124%2Fattach%2F2c9d13251986432eaabbf395c5a497af">
+<link rel="apple-touch-icon" sizes="120x120" href="//img1.daumcdn.net/thumb/C120x120/?fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F3677124%2Fattach%2F2c9d13251986432eaabbf395c5a497af">
+<link rel="apple-touch-icon" sizes="152x152" href="//img1.daumcdn.net/thumb/C152x152/?fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F3677124%2Fattach%2F2c9d13251986432eaabbf395c5a497af">
+<meta name="google-adsense-platform-account" content="ca-host-pub-9691043933427338">
+<meta name="google-adsense-platform-domain" content="tistory.com">
+<meta name="description" content="일명 '움짤'이라고 하죠. 움짤 뜻은 '움직이는 짤방'입니다. GIF 애니메이션으로 이미지 형식이지만 동영상처럼 움직이는 이미지인데요. 고퀄리티의 움직이는 gif를 만들기 위해서는 포토샵을 많이 사용하지만, 웃..">
+
+<!-- BEGIN OPENGRAPH -->
+<link rel="canonical" href="https://ttsdaily.tistory.com/99" /><meta property="og:type" content="article"><meta property="og:url" content="https://ttsdaily.tistory.com/99" ><meta property="og:article:author" content="★★＊★" ><meta property="og:site_name" content="트위티의 IT정보" ><meta property="og:title" content="gif 만들기 사이트 3초면 움짤 완성" ><meta name="by" content="트위티 ★★＊★" ><meta property="og:description" content="일명 '움짤'이라고 하죠. 움짤 뜻은 '움직이는 짤방'입니다. GIF 애니메이션으로 이미지 형식이지만 동영상처럼 움직이는 이미지인데요. 고퀄리티의 움직이는 gif를 만들기 위해서는 포토샵을 많이 사용하지만, 웃.." ><meta property="og:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJLGwR%2FbtqLmqTI61G%2FAyMzMLGMBJTgkbOZ1wMV01%2Fimg.png" ><meta property="article:section" content="IT 인터넷" >
+<!-- END OPENGRAPH -->
+
+
+
+<!-- BEGIN TWITTERCARD -->
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@TISTORY"><meta name="twitter:title" content="gif 만들기 사이트 3초면 움짤 완성" ><meta name="twitter:description" content="일명 '움짤'이라고 하죠. 움짤 뜻은 '움직이는 짤방'입니다. GIF 애니메이션으로 이미지 형식이지만 동영상처럼 움직이는 이미지인데요. 고퀄리티의 움직이는 gif를 만들기 위해서는 포토샵을 많이 사용하지만, 웃.." ><meta property="twitter:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJLGwR%2FbtqLmqTI61G%2FAyMzMLGMBJTgkbOZ1wMV01%2Fimg.png" >
+<!-- END TWITTERCARD -->
+
+
+
+<!-- BEGIN DAUMAPP -->
+<meta property="dg:plink" content="https://ttsdaily.tistory.com/99" ><meta name="plink" content="https://ttsdaily.tistory.com/99" ><meta name="title" content="gif 만들기 사이트 3초면 움짤 완성" ><meta name="article:media_name" content="트위티의 IT정보" ><meta property="article:mobile_url" content="https://ttsdaily.tistory.com/m/99" ><meta property="article:pc_url" content="https://ttsdaily.tistory.com/99" ><meta property="article:mobile_view_url" content="https://ttsdaily.tistory.com/m/99" ><meta property="article:pc_view_url" content="https://ttsdaily.tistory.com/99" ><meta property="article:talk_channel_view_url" content="https://ttsdaily.tistory.com/m/99" ><meta property="article:pc_service_home" content="https://www.tistory.com" ><meta property="article:mobile_service_home" content="https://www.tistory.com/m" ><meta property="article:txid" content="3677124_99" /><meta property="article:published_time" content="2020-10-20T15:46:39+09:00" ><meta property="og:regDate" content="20201020154639" ><meta property="article:modified_time" content="2020-10-20T15:46:39+09:00" >
+<!-- END DAUMAPP -->
+
+
+
+<!-- BEGIN STRUCTURED_DATA -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BlogPosting","mainEntityOfPage":{"@id":"https:\/\/ttsdaily.tistory.com\/99"},"url":"https:\/\/ttsdaily.tistory.com\/99","headline":"gif \ub9cc\ub4e4\uae30 \uc0ac\uc774\ud2b8 3\ucd08\uba74 \uc6c0\uc9e4 \uc644\uc131","description":"\uc77c\uba85 '\uc6c0\uc9e4'\uc774\ub77c\uace0 \ud558\uc8e0. \uc6c0\uc9e4 \ub73b\uc740 '\uc6c0\uc9c1\uc774\ub294 \uc9e4\ubc29'\uc785\ub2c8\ub2e4. GIF \uc560\ub2c8\uba54\uc774\uc158\uc73c\ub85c \uc774\ubbf8\uc9c0 \ud615\uc2dd\uc774\uc9c0\ub9cc \ub3d9\uc601\uc0c1\ucc98\ub7fc \uc6c0\uc9c1\uc774\ub294 \uc774\ubbf8\uc9c0\uc778\ub370\uc694. \uace0\ud004\ub9ac\ud2f0\uc758 \uc6c0\uc9c1\uc774\ub294 gif\ub97c \ub9cc\ub4e4\uae30 \uc704\ud574\uc11c\ub294 \ud3ec\ud1a0\uc0f5\uc744 \ub9ce\uc774 \uc0ac\uc6a9\ud558\uc9c0\ub9cc, \uc6c3..","author":{"@type":"Person","name":"\ud2b8\uc704\ud2f0 \u2605\u2605\uff0a\u2605"},"image":{"@type":"ImageObject","url":"https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJLGwR%2FbtqLmqTI61G%2FAyMzMLGMBJTgkbOZ1wMV01%2Fimg.png","width":"800px","height":"800px"},"datePublished":"20201020T15:46:39+09:00","dateModified":"20201020T15:46:39+09:00","publisher":{"@type":"Organization","name":"TISTORY","logo":{"@type":"ImageObject","url":"https:\/\/t1.daumcdn.net\/tistory_admin\/static\/images\/openGraph\/opengraph.png","width":"800px","height":"800px"}}}</script><meta name="robots" content="max-image-preview:large">
+<!-- END STRUCTURED_DATA -->
+
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
+	<meta name="google-site-verification" content="gn4mkJZ0stiVDoRuciDENKFuIrm6Gp-hiLV-CsvJwog" />	
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3660746268098071" crossorigin="anonymous"></script>
+	<meta name="naver-site-verification" content="5e239b06b0e9e4d83b1efca35d9272f31f11c53b" />
+	<title>gif 만들기 사이트 3초면 움짤 완성</title>	
+	<link rel="alternate" type="application/rss+xml" title="트위티의 IT정보" href="https://ttsdaily.tistory.com/rss" />
+	<link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/3677124/skin/style.css?_T_=1629343804">
+	<link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/3677124/skin/images/font.css">
+	<style>
+		
+		.wrap_sub {
+			background-image: url('https://tistory4.daumcdn.net/tistory/3677124/skinSetting/d8c8cc868767418f888b63ee959031d1');
+		}
+		
+	</style>
+	<!--[if lt IE 9]>
+	<script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+	<script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.2.1.min.js"></script>
+	<!--<![endif]-->
+	<!-- 인피드광고 -->
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script> var InfeedCount = 0; </script>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-PH83SZS');</script>
+	<!-- End Google Tag Manager -->
+<meta http-equiv="imagetoolbar" content="no"/><!-- BEGIN GOOGLE_SITE_VERIFICATION -->
+<meta name="google-site-verification" content="gn4mkJZ0stiVDoRuciDENKFuIrm6Gp-hiLV-CsvJwog" />
+<!-- END GOOGLE_SITE_VERIFICATION --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-158171339-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config','UA-158171339-1');
+</script><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/plugins/A_ShareEntryWithSNS/css/shareEntryWithSNS.css?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18">
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/plugins/A_ShareEntryWithSNS/script/shareEntryWithSNS.js?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18"></script>
+
+<style type="text/css">
+		#daumSearchBox {
+			height: 21px;
+			background-image : url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bg_search2_2.gif);
+			margin: 5px auto ;
+			padding: 0;
+		}
+		#daumSearchBox input {
+			background: none;
+			margin : 0;
+			padding : 0;
+			border : 0;
+		}
+		#daumSearchBox #daumLogo {
+			width: 34px;
+			height: 21px;
+			float: left;
+			margin-right: 5px;
+			background-image : url(//i1.daumcdn.net/img-media/tistory/img/bg_search1_2_2010ci.gif);
+		}
+		#daumSearchBox #show_q {
+			background-color: transparent;
+			border: none;
+			font: 12px Gulim, Sans-serif;
+			color: #555;
+			margin-top: 4px;
+			margin-right: 15px;
+			float: left;
+		}
+
+		#daumSearchBox #show_btn {
+			background-image : url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bt_search_2.gif);
+			width: 37px;
+			height: 21px;
+			float: left;
+			margin:0;
+			cursor:pointer;
+			text-indent:-1000em;
+		}
+	</style>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/plugins/TistoryProfileLayer/style.css?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18" />
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/plugins/TistoryProfileLayer/profile.js?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18"></script>
+	<style type="text/css">
+		.another_category { border: 1px solid #E5E5E5; padding: 10px 10px 5px; margin:10px 0; clear: both; }
+		.another_category h4 { font-size: 12px !important; margin: 0 !important; border-bottom: 1px solid #E5E5E5 !important; padding: 2px 0 6px !important; }
+		.another_category h4 a { font-weight: bold !important; }
+		.another_category table { table-layout: fixed; border-collapse: collapse; width: 100% !important; margin-top: 10px !important; }
+		* html .another_category table { width: auto !important; }
+		*:first-child+html .another_category table { width: auto !important; }
+		.another_category th, .another_category td { padding: 0 0 4px !important; }
+		.another_category th { text-align: left; font-size: 12px !important; font-weight: normal;  word-break: break-all; overflow: hidden; line-height: 1.5; }
+		.another_category td { text-align: right; width: 80px; font-size: 11px; }
+		.another_category th a { font-weight: normal; text-decoration: none; border: none !important; }
+		.another_category th a.current{ font-weight: bold; text-decoration: none !important; border-bottom: 1px solid !important; }
+		.another_category th span { font-weight: normal; text-decoration: none; font: 10px Tahoma, Sans-serif; border: none !important; }
+
+		.another_category_color_gray, .another_category_color_gray h4 { border-color: #E5E5E5 !important; }
+		.another_category_color_gray * { color: #909090 !important; }
+		.another_category_color_gray th a.current{border-color:#909090 !important;}
+		.another_category_color_gray h4, .another_category_color_gray h4 a { color: #737373 !important; }
+
+
+		.another_category_color_red, .another_category_color_red h4 { border-color: #F6D4D3 !important;  }
+		.another_category_color_red * { color: #E86869 !important; }
+		.another_category_color_red th a.current{border-color:#E86869 !important;}
+		.another_category_color_red h4, .another_category_color_red h4 a { color: #ED0908 !important; }
+
+
+		.another_category_color_green, .another_category_color_green h4 { border-color: #CCE7C8 !important; }
+		.another_category_color_green * { color: #64C05B !important; }
+		.another_category_color_green th a.current{border-color:#64C05B !important;}
+		.another_category_color_green h4, .another_category_color_green h4 a { color: #3EA731 !important; }
+
+
+		.another_category_color_blue, .another_category_color_blue h4 { border-color: #C8DAF2 !important; }
+		.another_category_color_blue * { color: #477FD6 !important; }
+		.another_category_color_blue th a.current{border-color:#477FD6 !important;}
+		.another_category_color_blue h4, .another_category_color_blue h4 a { color: #1960CA !important; }
+
+
+		.another_category_color_violet, .another_category_color_violet h4 { border-color: #E1CEEC !important;  }
+		.another_category_color_violet * { color:#9D64C5 !important; }
+		.another_category_color_violet th a.current{border-color:#9D64C5 !important;}
+		.another_category_color_violet h4, .another_category_color_violet h4 a { color: #7E2CB5 !important; }
+	</style>
+<script type="text/javascript">
+        
+        window.TistoryBlog = {
+            basePath: "",
+            url: "https://ttsdaily.tistory.com",
+            tistoryUrl: "https://ttsdaily.tistory.com",
+			manageUrl: 'https://ttsdaily.tistory.com/manage',
+            token: 'yBFoTLHK5pXgL3Uc2Hh1DQ=='
+        };
+        var servicePath = "";
+        var blogURL = "";
+    </script>
+
+	<script> (function() { window.orgjQuery = window.jQuery; window.jQuery = tjQuery })()</script>
+    <script type="text/javascript" defer src=https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/script/reaction/reaction-button-container.min.js?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18></script>
+    <script> (function() { window.jQuery = window.orgjQuery; delete window.orgjQuery })()</script>
+        <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/script/_/base.js?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18"></script>
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/style/dialog.css?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18"/>
+            <link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/tistory_admin/www/style/top/font.css">
+    <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/style/postBtn.css?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18"/>
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/style/component/tistory.css?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18" />
+        <script type="text/javascript" src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/style/revenue.css?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18"/></head>
+
+<body id="tt-body-page">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH83SZS"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+<script type="text/javascript">
+	(function() {
+		if (!window.T) {
+			window.T = {}
+		}
+		window.T.config = {"TOP_SSL_URL":"https:\/\/www.tistory.com","PREVIEW":false,"ROLE":"guest","PREV_PAGE":"\/100","NEXT_PAGE":"\/98","BLOG":{"isDormancy":false,"title":"\ud2b8\uc704\ud2f0\uc758 IT\uc815\ubcf4"},"NEED_COMMENT_LOGIN":false,"COMMENT_LOGIN_CONFIRM_MESSAGE":"","LOGIN_URL":"https:\/\/www.tistory.com\/auth\/login\/?redirectUrl=http%3A%2F%2Fttsdaily.tistory.com%2F99","DEFAULT_URL":"https:\/\/ttsdaily.tistory.com","USER":{"name":null,"homepage":null},"ROLE_GROUP":"visitor","SUBSCRIPTION":{"status":"none","isConnected":false,"isProcessing":false,"isPending":false,"isWait":false,"isNone":true},"IS_LOGIN":false,"HAS_BLOG":false,"TOP_URL":"https:\/\/www.tistory.com","JOIN_URL":"https:\/\/www.tistory.com\/member\/join"};
+		window.appInfo = {"domain":"tistory.com","topUrl":"https:\/\/www.tistory.com","loginUrl":"https:\/\/www.tistory.com\/auth\/login","logoutUrl":"https:\/\/www.tistory.com\/auth\/logout"};
+
+        window.initData = {};
+        
+	})();
+</script>
+
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/script/blog/common.js?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18"></script>
+<div style="margin:0; padding:0; border:none; background:none; float:none; clear:none; z-index:0"></div>
+
+	<div id="dkIndex">
+		<!--웹접근성용 바로가기 링크 모음-->
+		<a href="#dkBody">본문 바로가기</a>
+	</div>
+	<div id="dkWrap" class="wrap_skin">
+		<!-- 카테고리버튼 클릭시 'navi_on' 클래스 부여 -->
+		<div id="dkHead" role="banner" class="area_head">
+			<h1 class="screen_out">트위티의 IT정보</h1>
+			<button type="button" class="btn_cate">
+				<span class="ico_skin ico_cate">카테고리</span>
+			</button>
+			<div class="area_search ">
+				<button type="button" class="btn_search">
+					<span class="ico_skin ico_search">검색하기</span>
+				</button>
+				
+					<form action="#" method="get" class="frm_search box_search" onsubmit="try{window.location.href='/search/'+looseURIEncode(document.getElementsByName('search')[0].value);document.getElementsByName('search')[0].value='';return false;}catch(e){}">
+						<fieldset>
+							<legend class="screen_out">검색하기</legend>
+							<label for="search" class="lab_search screen_out">Search</label>
+							<input type="text" name="search" id="search" class="tf_search" placeholder="Search" value="" data-value="">
+							<span class="ico_skin ico_search"></span>
+						</fieldset>
+					</form>
+				
+			</div>
+			<div class="area_profile">
+				<div class="tit_post">
+					<a href="/" class="link_post">트위티의 IT정보</a>
+				</div>
+				<!--사이드-->
+				<div class="ads_cnt_area side" align="center">
+							<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3660746268098071"
+     data-ad-slot="3415631406"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+								</div>
+				<!--//사이드-->
+			</div>
+		</div>
+		<hr class="hide">
+		<div id="dkContent" class="cont_skin" role="main">
+			<div id="cMain">
+				<div id="mFeature" class="wrap_sub">
+					<div class="cont_sub">
+						<div class="inner_sub">
+							<div class="area_sub">
+								<div role="navigation" class="area_navi">
+									<ul class="tt_category">
+	<li class="">
+		<a class="link_tit" href="/category">
+			분류 전체보기							<span class="c_cnt">(141)</span>
+			
+					</a>
+
+				<ul class="category_list">
+							<li class="">
+					<a class="link_item" href="/category/IT%EC%A0%95%EB%B3%B4">
+						IT정보													<span class="c_cnt">(87)</span>
+						
+											</a>
+
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4">
+						일상정보													<span class="c_cnt">(40)</span>
+						
+											</a>
+
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EC%A3%BC%EC%8B%9D%EC%A0%95%EB%B3%B4">
+						주식정보													<span class="c_cnt">(14)</span>
+						
+											</a>
+
+					
+				</li>
+					</ul>
+			</li>
+</ul>
+									<a href="/guestbook" class="link_guestbook">Guestbook</a>
+								</div>
+								<div class="wrap_etc">
+									<div class="col_aside left_side">
+										
+									</div>
+
+
+									<div class="col_aside right_side">
+										
+									</div>
+								</div>
+							</div>
+						</div>
+						<button type="button" class="ico_skin btn_close">닫기</button>
+
+						<strong class="screen_out">관리 메뉴</strong>
+						<ul class="list_control">
+							<li><a href="https://ttsdaily.tistory.com/manage/entry/post" class="ico_skin link_write" title="글쓰기">글쓰기</a></li>
+							<li><a href="/guestbook" class="ico_skin link_memo" title="방명록">방명록</a></li>
+							<li><a href="https://ttsdaily.tistory.com/rss" class="ico_skin link_rss" title="RSS">RSS</a></li>
+							<li><a href="https://ttsdaily.tistory.com/manage" class="ico_skin link_manage" title="관리">관리</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div id="mArticle" class="article_skin">
+
+					
+
+					<div class="index_title">
+						<h2 class="tit_skin"><span class="txt_title">트위티의 IT정보</span></h2>
+					</div>
+
+					
+						
+
+						
+							<h2 id="dkBody" class="screen_out">gif 만들기 사이트 3초면 움짤 완성 본문</h2>
+							<div class="area_title">
+								<strong class="tit_category"><a href="/category/IT%EC%A0%95%EB%B3%B4">IT정보</a></strong>
+								<h3 class="tit_post">gif 만들기 사이트 3초면 움짤 완성</h3>
+								<span class="info_post">2020. 10. 20. 15:46
+								
+							</span>
+							</div>
+							<div class="ads_cnt_area top" align="center">
+							<ins class="adsbygoogle"
+									 style="display:block; width: 338px;"
+									 data-ad-client="ca-pub-3660746268098071"
+									 data-ad-slot="4511156776"
+									 data-ad-format="auto"
+									 data-full-width-responsive="true"></ins>
+							<script>
+									 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+							</div>
+							<div class="area_view">							
+								<div class="tt_article_useless_p_margin contents_style"><p>일명 '움짤'이라고 하죠. 움짤 뜻은 '움직이는 짤방'입니다. GIF 애니메이션으로 이미지 형식이지만 동영상처럼 움직이는 이미지인데요.</p>
+<p>&nbsp;</p>
+<p>고퀄리티의 움직이는 gif를 만들기 위해서는 포토샵을 많이 사용하지만, 웃긴 움짤이나 동물들의 모습을 담은 귀여운 움짤, 방탄 움짤 같은 연예인 움짤 등 gif 파일을 간단하게 만들기 좋은 사이트를 소개합니다.</p>
+<p>&nbsp;</p>
+<p>단순히 gif 파일 만들기 뿐만 아니라 gif 파일 최적화로 용량을 확 줄이는 기능까지 포함되어 있으니까 주목해주세요!</p>
+<div class="ads_cnt_area" align="center">
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display: block; text-align: center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-3660746268098071" data-ad-slot="3166926143" data-full-width-responsive="false"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>초간단 움직이는 GIF 파일 만들기</h2>
+<p>사진으로 GIF 만들기와 동영상으로 GIF 만들기, GIF 용량 줄이기 방법까지 설명하겠습니다.</p>
+<p><figure class='imageblock alignCenter' data-filename="peng0.png" data-origin-width="864" data-origin-height="352" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/JLGwR/btqLmqTI61G/AyMzMLGMBJTgkbOZ1wMV01/img.png' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/JLGwR/btqLmqTI61G/AyMzMLGMBJTgkbOZ1wMV01/img.png' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJLGwR%2FbtqLmqTI61G%2FAyMzMLGMBJTgkbOZ1wMV01%2Fimg.png' data-filename="peng0.png" data-origin-width="864" data-origin-height="352" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>GIF 만들기 사이트</h3>
+<p>움직이는 이미지 GIF 만들기로 가장 유명한 EZGIF사이트(<u><a style="color: #006dd7;" href="https://ezgif.com/" target="_blank" rel="noopener">ezgif.com</a></u>)입니다. 이미지로 GIF 만들기, 동영상으로 GIF 만들기, 자르고 회전하기, 음소거, 속도 조절은 물론 GIF 최적화 도구에 GIF를 사진으로 변환하기까지 GIF 관련한 모든 기능이 있는 사이트입니다.</p>
+<p>&nbsp;</p>
+<p>전부 영어로 되어있지만 툴사용법이 어렵지 않기 때문에 쉽게 만드실 수 있습니다. 하지만 더욱 편리한 작업을 위해&nbsp;<span style="letter-spacing: 0px;">크롬 브라우저의 [번역] 기능을 사용하시면 좋습니다. </span></p>
+<p>&nbsp;</p>
+<h4><span style="letter-spacing: 0px;">크롬 자동번역 기능</span></h4>
+<p><span style="letter-spacing: 0px;">크롬 브라우저로 EZGIF 사이트로 이동 후, 자동번역 팝업이 뜨지 않는다면 홈페이지에서 [마우스 우클릭] - [한국어로 번역]을 눌러주시면 됩니다.</span></p>
+<div class="ads_cnt_area" align="center">
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display: block; text-align: center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-3660746268098071" data-ad-slot="3187123352" data-full-width-responsive="false"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Type 1. 사진으로 GIF 만들기</h3>
+<p><figure class='imageblock alignCenter' data-filename="peng4.jpg" data-origin-width="1387" data-origin-height="547" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/cFAPgc/btqLjskJL0M/vchiaoax7BapJnkYktYttK/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/cFAPgc/btqLjskJL0M/vchiaoax7BapJnkYktYttK/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcFAPgc%2FbtqLjskJL0M%2Fvchiaoax7BapJnkYktYttK%2Fimg.jpg' data-filename="peng4.jpg" data-origin-width="1387" data-origin-height="547" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>[GIF 메이커] 메뉴를 누르면 사진으로 gif 만들기가 가능합니다. [파일 선택] 버튼을 눌러 GIF로 만들고 싶은 파일을 선택해주세요. JPG, PNG, GIF, Webp 등 최대 2천 개의 이미지 파일을 불러올 수 있습니다. 또 하나의 좋은 점은 ZIP 파일도 업로드가 가능합니다.</p>
+<p>&nbsp;</p>
+<p>하지만, 이미지 개별 용량이 6MB 이하만 가능하며, 최대 파일 용량은 총 100MB를 넘길 수 없습니다.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><figure class='imageblock alignCenter' data-filename="peng5.jpg" data-origin-width="727" data-origin-height="326" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/Ef01A/btqLkKZvaQZ/jpQiuD43pV9ZjYDTPHnOkk/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/Ef01A/btqLkKZvaQZ/jpQiuD43pV9ZjYDTPHnOkk/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FEf01A%2FbtqLkKZvaQZ%2FjpQiuD43pV9ZjYDTPHnOkk%2Fimg.jpg' data-filename="peng5.jpg" data-origin-width="727" data-origin-height="326" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>파일 선택 창이 뜨면, 원하는 이미지를 클릭하시기 바랍니다. 여러 장이라면 마우스 드래그하거나 컨트롤 키를 누르며&nbsp; 파일을 선택하시기 바랍니다. 이미지가 굉장히 많다면 ZIP으로 압축 후, 업로드하시기 바랍니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><figure class='imageblock alignCenter' data-filename="peng6.jpg" data-origin-width="1387" data-origin-height="547" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/bM4q20/btqLjq8iRKG/V6BrwzmTCSPcift7bUEou1/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/bM4q20/btqLjq8iRKG/V6BrwzmTCSPcift7bUEou1/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbM4q20%2FbtqLjq8iRKG%2FV6BrwzmTCSPcift7bUEou1%2Fimg.jpg' data-filename="peng6.jpg" data-origin-width="1387" data-origin-height="547" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>불러온 파일이 제대로 올라갔는지 확인하고, [GIF를 업로드하고 만드세요! UPload and make a GIF]를 클릭합니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="img_2gp"><figure class='imageblock alignCenter' data-filename="peng7.jpg" data-origin-width="693" data-origin-height="755" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/GqMYv/btqLlB85gJN/31f9ZnryKha9YxBfpk7IsK/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/GqMYv/btqLlB85gJN/31f9ZnryKha9YxBfpk7IsK/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGqMYv%2FbtqLlB85gJN%2F31f9ZnryKha9YxBfpk7IsK%2Fimg.jpg' data-filename="peng7.jpg" data-origin-width="693" data-origin-height="755" data-ke-mobilestyle="widthContent"></span></figure><figure class='imageblock alignCenter' data-filename="peng8.jpg" data-origin-width="693" data-origin-height="755" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/bJI5tg/btqLmrLS94u/KkpxlK2jE6lZsIdHe4LiMK/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/bJI5tg/btqLmrLS94u/KkpxlK2jE6lZsIdHe4LiMK/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbJI5tg%2FbtqLmrLS94u%2FKkpxlK2jE6lZsIdHe4LiMK%2Fimg.jpg' data-filename="peng8.jpg" data-origin-width="693" data-origin-height="755" data-ke-mobilestyle="widthContent"></span></figure></div>
+<p>불러온 이미지는 마우스 드래그 &amp; 드롭으로 순서를 바꿀 수 있습니다.</p>
+<p>각 이미지 상자의 [지연 Delay] 부분의 값을 조정해 다음 이미지가 나타나는 순간을 지정할 수 있습니다.</p>
+<p>&nbsp;</p>
+<p>GIF 옵션 중 [Loop count 루프 수] 부분에 아무 숫자도 넣지 않으면 무한으로 GIF가 재생됩니다. 만약 이미지가 한번 움직이고 멈췄으면 좋겠다 싶으면 1이라는 숫자를 넣어주시기 바랍니다.</p>
+<p>&nbsp;</p>
+<p>[GIF를 만드세요! Make a GIF] 버튼을 눌러 GIF 만들기를 시작합니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><figure class='imageblock alignCenter' data-filename="peng9.jpg" data-origin-width="873" data-origin-height="729" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/DMf1e/btqLkLqBxXJ/UX8Q5dREspIh02JgqLVc3k/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/DMf1e/btqLkLqBxXJ/UX8Q5dREspIh02JgqLVc3k/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDMf1e%2FbtqLkLqBxXJ%2FUX8Q5dREspIh02JgqLVc3k%2Fimg.jpg' data-filename="peng9.jpg" data-origin-width="873" data-origin-height="729" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>결과는 페이지 바로 아래에 뜨게 됩니다. 프레임수나 옵션, 효과 등을 수정하고 싶다면 위에서 값을 수정 후, 다시 GIF 만들기 버튼을 누르면 아래에서 바로 확인이 가능합니다.</p>
+<p>&nbsp;</p>
+<p>3장의 이미지로 만든 저의 GIF는 약 191KB의 크기를 갖고 있습니다. [저장] 버튼을 누르면 그대로 GIF가 생성됩니다.</p>
+<p>하지만 기본 움짤의 경우 이미지가 굉장히 많이 들어갑니다. [최적화] 버튼을 눌러 GIF를 최적화하는 것이 좋습니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>GIF 최적화 용량 줄이기</h3>
+<p><figure class='imageblock alignCenter' data-filename="peng10.jpg" data-origin-width="868" data-origin-height="821" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/bHu2b7/btqLkgYJvcl/z9E6dPdasPXL6s2CQ5iAY0/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/bHu2b7/btqLkgYJvcl/z9E6dPdasPXL6s2CQ5iAY0/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbHu2b7%2FbtqLkgYJvcl%2Fz9E6dPdasPXL6s2CQ5iAY0%2Fimg.jpg' data-filename="peng10.jpg" data-origin-width="868" data-origin-height="821" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>GIF 만들기 사이트인 EZGIF에는 GIF 최적화 기능도 제공하고 있습니다. 압축 값이 클수록 용량은 적지만 노이즈 등 매끄럽지 않은 화질의 GIF가 제작됩니다.</p>
+<p>&nbsp;</p>
+<p>압축 수준을 지정한 후, [GIF 최적화] 버튼을 눌러 최종 GIF 파일을 만듭니다. (압축 수준에 따른 GIF 퀄리티는 아래를 확인 바랍니다.)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>움직이는 GIF 결과 보기&nbsp;</h3>
+<p><figure class='imageblock alignCenter' data-origin-width="751" data-origin-height="385" data-filename="펭수2.gif" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/zVEAC/btqLopUBpqL/j3DtY8ZBHEag1HTqKOojY0/img.gif' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/zVEAC/btqLopUBpqL/j3DtY8ZBHEag1HTqKOojY0/img.gif' srcset='https://blog.kakaocdn.net/dn/zVEAC/btqLopUBpqL/j3DtY8ZBHEag1HTqKOojY0/img.gif' data-origin-width="751" data-origin-height="385" data-filename="펭수2.gif" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>최적화 없이 기본 저장 : 191KB / 기본 이미지에서 펭수 얼굴에 노이즈가 생긴 것을 볼 수 있습니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><figure class='imageblock alignCenter' data-filename="펭수1.gif" data-origin-width="751" data-origin-height="385" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/QzCc8/btqLhOInPNb/MipVj64G33RowpTz4sSJq1/img.gif' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/QzCc8/btqLhOInPNb/MipVj64G33RowpTz4sSJq1/img.gif' srcset='https://blog.kakaocdn.net/dn/QzCc8/btqLhOInPNb/MipVj64G33RowpTz4sSJq1/img.gif' data-filename="펭수1.gif" data-origin-width="751" data-origin-height="385" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>크로스 페이드 프레임 효과를 준 GIF : 2.63MB</p>
+<p>효과가 들어갈수록 GIF 용량은 당연히 늘어납니다. 크로스 페이드 프레임은 자연스럽게 화면 전환이 된다는 장점이 있는 반면 그만큼 프레임 수가 늘어나므로 GIF 용량이 굉장히 많이 늘어난 것을 볼 수 있습니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="img_2gp"><figure class='imageblock alignCenter' data-filename="펭수3.gif" data-origin-width="751" data-origin-height="385" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/b7LcY4/btqLpwlD5cW/LCBsdNWknX8CP2Vc0kvguK/img.gif' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/b7LcY4/btqLpwlD5cW/LCBsdNWknX8CP2Vc0kvguK/img.gif' srcset='https://blog.kakaocdn.net/dn/b7LcY4/btqLpwlD5cW/LCBsdNWknX8CP2Vc0kvguK/img.gif' data-filename="펭수3.gif" data-origin-width="751" data-origin-height="385" data-ke-mobilestyle="widthContent"></span></figure><figure class='imageblock alignCenter' data-filename="펭수4.gif" data-origin-width="751" data-origin-height="385" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/cpN3bL/btqLkK6jtOV/7tSleVZWeZnU5I5Hh2T1uk/img.gif' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/cpN3bL/btqLkK6jtOV/7tSleVZWeZnU5I5Hh2T1uk/img.gif' srcset='https://blog.kakaocdn.net/dn/cpN3bL/btqLkK6jtOV/7tSleVZWeZnU5I5Hh2T1uk/img.gif' data-filename="펭수4.gif" data-origin-width="751" data-origin-height="385" data-ke-mobilestyle="widthContent"></span></figure></div>
+<p>압축 수준 35로 최적화한 GIF 용량 122KB(기존에서 -69KB) / 압축수준 200으로 최적화한 GIF용량 89.1KB</p>
+<p>압축 수준이 클수록 이미지가 많이 깨지는 것을 확인할 수 있습니다.</p>
+<div class="ads_cnt_area" align="center">
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display: block; text-align: center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-3660746268098071" data-ad-slot="9560960016" data-full-width-responsive="false"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Type 2. 동영상으로 GIF 만들기</h3>
+<p><figure class='imageblock alignCenter' data-filename="peng11.jpg" data-origin-width="1272" data-origin-height="832" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/diOQ9z/btqLopf66DO/kMTYqH5ZsfRT8vTqIKYKmK/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/diOQ9z/btqLopf66DO/kMTYqH5ZsfRT8vTqIKYKmK/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdiOQ9z%2FbtqLopf66DO%2FkMTYqH5ZsfRT8vTqIKYKmK%2Fimg.jpg' data-filename="peng11.jpg" data-origin-width="1272" data-origin-height="832" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>동영상 움짤 만들기를 위해 역시 EZGIF(<u><a style="color: #006dd7;" href="https://ezgif.com/" target="_blank" rel="noopener">ezgif.com</a></u>) 사이트로 이동합니다. 상단 메뉴 [비디오를 GIF로 Video to GIF]를 클릭합니다. [파일 선택] 버튼을 클릭해 GIF로 만들고 싶은 동영상 파일을 불러옵니다.</p>
+<p>&nbsp;</p>
+<p>MP4, AVI, MPEG, WebM, FLV, MOV, 3GP 등의 비디오 파일을 최대 100MB까지 불러올 수 있습니다.&nbsp;</p>
+<p>참고로 동영상 URL 붙여 넣기에 유튜브 영상 주소는 불러올 수 없습니다.</p>
+<p>&nbsp;</p>
+<p>[동영상 업로드 Upload video] 버튼을 클릭해 동영상을 업로드합니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><figure class='imageblock alignCenter' data-filename="peng17.png" data-origin-width="738" data-origin-height="591" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/mJCco/btqLkhi0xVm/RsQXd7WZimsdlYiISsd8U0/img.png' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/mJCco/btqLkhi0xVm/RsQXd7WZimsdlYiISsd8U0/img.png' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmJCco%2FbtqLkhi0xVm%2FRsQXd7WZimsdlYiISsd8U0%2Fimg.png' data-filename="peng17.png" data-origin-width="738" data-origin-height="591" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>[동영상 업로드] 버튼을 눌렀지만 아무 변화 없이 페이지 전환이 일어나지 않을 때가 있습니다. 동영상의 용량이 큰 경우 로딩 시간이 길어지기 때문인데요. 브라우저 상단 탭에 '로딩 아이콘'이 돌아가고 있는지 확인하고, 하단 '... 의 응답을 기다리는 중'이라는 메시지가 떠있다면 업로드가 진행되고 있는 것이니 조금 더 기다리시기 바랍니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><figure class='imageblock alignCenter' data-filename="peng12.jpg" data-origin-width="840" data-origin-height="526" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/zjhSy/btqLmrZs95N/wsbQ7dbxRU6ChjyZgk0oT1/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/zjhSy/btqLmrZs95N/wsbQ7dbxRU6ChjyZgk0oT1/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzjhSy%2FbtqLmrZs95N%2FwsbQ7dbxRU6ChjyZgk0oT1%2Fimg.jpg' data-filename="peng12.jpg" data-origin-width="840" data-origin-height="526" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>업로드 한 동영상은 GIF, WebP, APNG로 변환할 수 있으며, 자르기나 크기 조정, 회전, 속도 조절, 자막 추가, 음소거 등의 동영상 편집도 가능합니다.</p>
+<p>&nbsp;</p>
+<p>이미 편집된 동영상을 GIF로 만들기를 원한다면 가장 오른쪽에 있는 [저장] 버튼을 클릭해 GIF 만들기를 끝냅니다.</p>
+<p>&nbsp;</p>
+<p><span style="color: #333333;">하지만, 대부분 동영상 편집이 되지 않은 상태일 것입니다. 18초 길이의 동영상을 불러와 내가 움짤을 만들고 싶은 3초 정도만 GIF를 만들어 보겠습니다.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><figure class='imageblock alignCenter' data-filename="peng13.jpg" data-origin-width="676" data-origin-height="716" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/G7yav/btqLpv79nEq/EbkI3xZdqPbA9ODk0cPYmK/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/G7yav/btqLpv79nEq/EbkI3xZdqPbA9ODk0cPYmK/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FG7yav%2FbtqLpv79nEq%2FEbkI3xZdqPbA9ODk0cPYmK%2Fimg.jpg' data-filename="peng13.jpg" data-origin-width="676" data-origin-height="716" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>동영상의 재생 버튼을 누르고, 프레임을 수월하게 찾기 위해 일시정지를 클릭해줍니다.</p>
+<p>&nbsp;</p>
+<p>재생 바를 클릭해 내가 원하는 프레임을 찾도록 합니다. 저의 경우 5초~8초 사이를 GIF로 만들 것이므로 재생바 5초쯤을 클릭하고 하단 [현재 위치 사용]을 클릭했고, 종료시간도 재생 바에서 클릭 후, [현재 위치 사용] 버튼을 클릭해 줬습니다.</p>
+<p>&nbsp;</p>
+<p>이렇게 시작시간과 종료시간을 지정하면 원하는 지점의 움짤 만들기가 가능합니다.</p>
+<p>&nbsp;</p>
+<p>[GIF로 변환하세요] 버튼을 눌러 GIF를 출력합니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><figure class='imageblock alignCenter' data-filename="peng14.jpg" data-origin-width="877" data-origin-height="718" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/4xc87/btqLpv79Ikd/qGZteoURUiVLz75nQHHQO1/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/4xc87/btqLpv79Ikd/qGZteoURUiVLz75nQHHQO1/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F4xc87%2FbtqLpv79Ikd%2FqGZteoURUiVLz75nQHHQO1%2Fimg.jpg' data-filename="peng14.jpg" data-origin-width="877" data-origin-height="718" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>출력된 GIF를 편집할 수 있습니다. 동영상 업로드와 마찬가지로 프레임수가 많다면 GIF를 출력하는데 긴 시간이 소요될 수 있습니다. 더 이상의 편집과 최적화가 필요 없다면 바로 가장 오른쪽에 있는 [저장] 버튼을 눌러 GIF 만들기를 끝냅니다.</p>
+<p>&nbsp;</p>
+<p>하지만 용량이 2MB를 넘었고 화면에 불필요한 여백이 보여 이미지 크롭(Crop)과 GIF 최적화를 해보도록 하겠습니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>동영상 GIF 자르기</h4>
+<p><figure class='imageblock alignCenter' data-filename="peng15.jpg" data-origin-width="847" data-origin-height="731" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/b9hjaG/btqLpvG54cS/QJlJpkPINnhB2rqJqKxYvK/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/b9hjaG/btqLpvG54cS/QJlJpkPINnhB2rqJqKxYvK/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb9hjaG%2FbtqLpvG54cS%2FQJlJpkPINnhB2rqJqKxYvK%2Fimg.jpg' data-filename="peng15.jpg" data-origin-width="847" data-origin-height="731" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>[crop(수확고)] 툴을 선택합니다. 동영상 위에 표시된 점선 박스의 크기를 조정하여 남기고 싶은 부분을 지정합니다. 또는 동영상 빈 곳에 마우스를 가져가면 '+' 표시가 뜰 것입니다. 자르고 싶은 영역에 맞게 드래그해줍니다.&nbsp;</p>
+<p>&nbsp;</p>
+<p>종횡비(Aspect ratio)를 체크하면 그에 맞는 박스가 선택되어 쉽게 GIF 사이즈를 선택할 수도 있습니다.</p>
+<p>&nbsp;</p>
+<p>[이미지 자르기]를 클릭해줍니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><figure class='imageblock alignCenter' data-filename="peng16.jpg" data-origin-width="1036" data-origin-height="550" data-ke-mobilestyle="widthContent"><span data-url='https://blog.kakaocdn.net/dn/rHQzi/btqLkLD96tI/oHcvk6s8jirW45JfBLYmxK/img.jpg' data-lightbox='lightbox' data-alt=''><img src='https://blog.kakaocdn.net/dn/rHQzi/btqLkLD96tI/oHcvk6s8jirW45JfBLYmxK/img.jpg' srcset='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrHQzi%2FbtqLkLD96tI%2FoHcvk6s8jirW45JfBLYmxK%2Fimg.jpg' data-filename="peng16.jpg" data-origin-width="1036" data-origin-height="550" data-ke-mobilestyle="widthContent"></span></figure></p>
+<p>용량을 위해 크롭 된 동영상이나 GIF를 최적화한 후, 저장하는 것을 추천합니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>이렇게 사진과 동영상을 이용한 움직이는 이미지, 움짤 만들기를 해보았습니다. 굉장히 다양한 툴을 제공하는 사이트로 소개하지 않은 기능들도 필요하시다면 적용해보시기 바랍니다.</p>
+<p>&nbsp;</p>
+<ul style="list-style-type: circle;" data-ke-list-type="circle">
+<li><span style="color: #006dd7;"><u><a style="color: #006dd7;" href="https://ttsdaily.tistory.com/87" target="_blank" rel="noopener">초간단 pdf파일을 한글 파일로 변환하기<br /></a></u></span></li>
+<li><span style="color: #006dd7;"><u><a style="color: #006dd7;" href="https://ttsdaily.tistory.com/84" target="_blank" rel="noopener">포토스케이프, 포토스케이프 X 무료 다운로드</a></u></span></li>
+<li><span style="color: #006dd7;"><u><a style="color: #006dd7;" href="https://ttsdaily.tistory.com/74" target="_blank" rel="noopener">유튜브 썸네일 만들기 사이트 BEST3</a></u></span></li>
+</ul>
+<p>&nbsp;</p><div class="container_postbtn #post_button_group">
+    <div class="postbtn_like">
+        
+<script>
+    window.ReactionButtonType = 'reaction';
+    window.ReactionApiUrl = '//ttsdaily.tistory.com/reaction';
+    window.ReactionReqBody = {
+        entryId: 99    }
+</script>
+<div class="wrap_btn" id=reaction-99></div>
+<script src=https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/script/reaction/reaction-button-container.min.js?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18></script>
+        <div class="wrap_btn wrap_btn_share">
+    <button type="button" class="btn_post sns_btn btn_share" data-thumbnail-url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJLGwR%2FbtqLmqTI61G%2FAyMzMLGMBJTgkbOZ1wMV01%2Fimg.png" data-title="gif 만들기 사이트 3초면 움짤 완성" data-description="일명 '움짤'이라고 하죠. 움짤 뜻은 '움직이는 짤방'입니다. GIF 애니메이션으로 이미지 형식이지만 동영상처럼 움직이는 이미지인데요. 고퀄리티의 움직이는 gif를 만들기 위해서는 포토샵을 많이 사용하지만, 웃.." data-profile-image="https://tistory1.daumcdn.net/tistory/3677124/attach/2c9d13251986432eaabbf395c5a497af" data-profile-name="트위티 ★★＊★" data-pc-url="https://ttsdaily.tistory.com/99" data-relative-pc-url="/99" data-blog-title="트위티의 IT정보">
+        <span class="ico_postbtn ico_share">공유하기</span>
+    </button>
+</div>
+                <div class="wrap_btn wrap_btn_etc" data-entry-id="99" data-entry-visibility="public" data-category-visibility="public">
+    <button type="button" class="btn_post btn_etc2"><span class="ico_postbtn ico_etc">글 요소</span></button>
+</div>
+    </div>
+    <button type="button" class="btn_menu_toolbar btn_subscription  #subscribe" data-blog-id="3677124" data-url="https://ttsdaily.tistory.com/99" data-device="web_pc">
+    <em class="txt_state">구독하기</em>
+    <strong class="txt_tool_id">트위티의 IT정보</strong>
+    <span class="img_common_tistory ico_check_type1"></span>
+</button>
+    <div class="postbtn_ccl" data-ccl-type="1">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko" target="_blank" class="link_ccl">
+        <span class="bundle_ccl">
+            <span class="ico_postbtn ico_ccl1">저작자표시</span><span class="ico_postbtn ico_ccl2">비영리</span><span class="ico_postbtn ico_ccl3">변경금지</span>        </span>
+    </a>
+</div>
+    <!--
+<rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+        <license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.0/kr/" />
+    </Work>
+    <License rdf:about="http://creativecommons.org/licenses/by-nc-nd/">
+        <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+        <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+        <requires rdf:resource="http://web.resource.org/cc/Notice"/>
+        <requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+                        <prohibits rdf:resource="http://web.resource.org/cc/CommercialUse"/>
+            </License>
+</rdf:RDF>
+-->
+</div><div class="tt-plugin tt-share-entry-with-sns tt-sns-icon-alignment-center tt-sns-icon-size-big">
+	<div class="tt-sns-wrap" id="ttSnsWrap-99">
+		<ul class="tt-sns-service-default">
+			<li class="tt-sns-service-kakaostory"><a href="javascript:;" onclick="ShareEntryWithSNS.share('kakaostory', '99', 'gif%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%8A%B8%203%EC%B4%88%EB%A9%B4%20%EC%9B%80%EC%A7%A4%20%EC%99%84%EC%84%B1');">카카오스토리</a></li>
+			<li class="tt-sns-service-twitter"><a href="javascript:;" onclick="ShareEntryWithSNS.share('twitter', '99', 'gif%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%8A%B8%203%EC%B4%88%EB%A9%B4%20%EC%9B%80%EC%A7%A4%20%EC%99%84%EC%84%B1');">트위터</a></li>
+			<li class="tt-sns-service-facebook"><a href="javascript:;" onclick="ShareEntryWithSNS.share('facebook', '99', 'gif%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%8A%B8%203%EC%B4%88%EB%A9%B4%20%EC%9B%80%EC%A7%A4%20%EC%99%84%EC%84%B1');">페이스북</a></li>
+		</ul>
+	</div>
+	<div class="tt-sns-clear"></div>
+</div>
+<div class="another_category another_category_color_gray">
+<h4>'<a href="/category/IT정보">IT정보</a>' 카테고리의 다른 글</h4>
+<table>
+<tr>
+<th>
+<a href="/104?category=880382" >넷플릭스 영화, 미드, 다큐 추천 시청률 TOP10</a>&nbsp;&nbsp;<span>(1)</span>
+</th>
+<td>
+2020.10.27</td>
+</tr>
+<tr>
+<th>
+<a href="/100?category=880382" >아이폰12 사전예약 사은품 혜택 모아보기</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2020.10.22</td>
+</tr>
+<tr>
+<th>
+<a href="/99?category=880382"  class ="current" >gif 만들기 사이트 3초면 움짤 완성</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2020.10.20</td>
+</tr>
+<tr>
+<th>
+<a href="/98?category=880382" >의외로 모르는 그래픽 카드 성능 비교하는 법</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2020.10.16</td>
+</tr>
+<tr>
+<th>
+<a href="/97?category=880382" >그래픽카드 성능순위 비교표 가성비 제품까지</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2020.10.16</td>
+</tr>
+<tr>
+<th>
+<a href="/93?category=880382" >어도비 구독 결제 취소 환불방법</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2020.10.08</td>
+</tr>
+</table></div></div>
+								<div class="ads_cnt_area foot" align="center">
+								<!-- 가로긴형태 -->
+								<ins class="adsbygoogle"
+										 style="display:block"
+										 data-ad-client="ca-pub-3660746268098071"
+										 data-ad-slot="1693421743"
+										 data-ad-format="auto"
+										 data-full-width-responsive="true"></ins>
+								<script>
+										 (adsbygoogle = window.adsbygoogle || []).push({});
+								</script>
+								</div>
+							</div>
+							
+							<div class="area_etc">
+								
+									<dl class="list_tag">
+										<dt>Tag</dt>
+										<dd><a href="/tag/gif%EB%A7%8C%EB%93%A4%EA%B8%B0%EC%82%AC%EC%9D%B4%ED%8A%B8"  rel="tag">gif만들기사이트</a>,
+<a href="/tag/%EB%8F%99%EC%98%81%EC%83%81gif%EB%A7%8C%EB%93%A4%EA%B8%B0"  rel="tag">동영상gif만들기</a>,
+<a href="/tag/%EC%82%AC%EC%A7%84%EC%9C%BC%EB%A1%9Cgif%EB%A7%8C%EB%93%A4%EA%B8%B0"  rel="tag">사진으로gif만들기</a>,
+<a href="/tag/%EC%9B%80%EC%A7%A4%EB%A7%8C%EB%93%A4%EA%B8%B0"  rel="tag">움짤만들기</a></dd>
+									</dl>
+								
+							</div>
+
+							
+								<div class="area_related">
+									<strong class="tit_related">'IT정보' Related Articles</strong>
+									<ul class="list_related">
+										
+											<li class="thumb_type">
+												<a href="/104?category=880382" class="link_related">
+													
+													<span class="thumb_related">
+														<img src="//i1.daumcdn.net/thumb/C185x200/?fname=https://blog.kakaocdn.net/dn/cY90sy/btqLNrsu4Nc/CGqyBLxQNst6xh9L7NJqvk/img.png" class="img_related" alt="">
+													</span>
+													
+													<span class="txt_related">넷플릭스 영화, 미드, 다큐 추천 시청률 TOP10</span>
+													<span class="date_related">2020.10.27</span>
+													<span class="frame_related"></span>
+												</a>
+											</li>
+										
+											<li class="thumb_type">
+												<a href="/100?category=880382" class="link_related">
+													
+													<span class="thumb_related">
+														<img src="//i1.daumcdn.net/thumb/C185x200/?fname=https://blog.kakaocdn.net/dn/y7Ske/btqLweeu3To/YIxVskuCzCpzJPNRVQahA0/img.png" class="img_related" alt="">
+													</span>
+													
+													<span class="txt_related">아이폰12 사전예약 사은품 혜택 모아보기</span>
+													<span class="date_related">2020.10.22</span>
+													<span class="frame_related"></span>
+												</a>
+											</li>
+										
+											<li class="thumb_type">
+												<a href="/98?category=880382" class="link_related">
+													
+													<span class="thumb_related">
+														<img src="//i1.daumcdn.net/thumb/C185x200/?fname=https://blog.kakaocdn.net/dn/bKxYAY/btqK4J0JuKf/bS4gJD2A2VXR2LV39fKK7k/img.png" class="img_related" alt="">
+													</span>
+													
+													<span class="txt_related">의외로 모르는 그래픽 카드 성능 비교하는 법</span>
+													<span class="date_related">2020.10.16</span>
+													<span class="frame_related"></span>
+												</a>
+											</li>
+										
+											<li class="thumb_type">
+												<a href="/97?category=880382" class="link_related">
+													
+													<span class="thumb_related">
+														<img src="//i1.daumcdn.net/thumb/C185x200/?fname=https://blog.kakaocdn.net/dn/sE3ze/btqK6eTq5yE/0ZQ0jLz5dNM1sYhyCMgO41/img.png" class="img_related" alt="">
+													</span>
+													
+													<span class="txt_related">그래픽카드 성능순위 비교표 가성비 제품까지</span>
+													<span class="date_related">2020.10.16</span>
+													<span class="frame_related"></span>
+												</a>
+											</li>
+										
+									</ul>
+									<a href="/category/IT%EC%A0%95%EB%B3%B4" class="link_more">more</a>
+								</div>
+							
+
+							<div class="area_reply">
+								<strong class="tit_reply" onclick=""><span id="commentCount99_0">0</span>  Comments</strong>
+								<div id="entry99Comment">
+									
+
+									<form method="post" action="/comment/add/99" onsubmit="return false" style="margin: 0">
+										<fieldset class="fld_reply">
+											<legend class="screen_out">댓글쓰기 폼</legend>
+											
+												
+													<div class="writer_info">
+                                                    <span class="info_name">
+                                                        <label for="name" class="lab_info screen_out">이름</label>
+                                                        <span class="wrap_info">
+                                                            <input type="text" name="name" id="name" class="inp_info" placeholder="Name" tabindex="1">
+                                                        </span>
+                                                    </span>
+														<span class="info_pw ">
+                                                        <label for="password" class="lab_info screen_out">비밀번호</label>
+                                                        <span class="wrap_info">
+                                                            <input type="password" name="password" id="password" class="inp_info" placeholder="Password" tabindex="2">
+                                                        </span>
+                                                    </span>
+													</div>
+												
+												<div class="writer_check">
+                                                <span class="check_secret ">
+                                                    <input type="checkbox" name="secret" id="secret" class="inp_secret" tabindex="4">
+                                                    <label for="secret" class="lab_secret">
+                                                        <span class="ico_skin ico_check"></span>
+                                                        Secret
+                                                    </label>
+                                                </span>
+												</div>
+											
+
+											<div class="reply_write ">
+												<label for="comment" class="lab_write screen_out">내용</label>
+												<textarea name="comment" id="comment" class="tf_reply" placeholder="여러분의 소중한 댓글을 입력해주세요" tabindex="3"></textarea>
+											</div>
+
+											<div class="writer_btn">
+												<button type="submit" class="btn_enter" onclick="addComment(this, 99); return false;" tabindex="5">Send</button>
+											</div>
+										</fieldset>
+									</form>
+								</div><script type="text/javascript">loadedComments[99]=true;findFragmentAndHighlight(99)</script>
+							</div>
+
+
+						
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+
+					
+						<div class="area_paging">
+    					<span class="inner_paging">
+                            <a  href='/100' class="btn_prev "><span class="ico_skin ico_prev"></span>Prev</a>
+    						
+    							<a  href='/160' class="link_page"><span >1</span></a>
+    						
+    							<a  class="link_page"><span >&middot;&middot;&middot;</span></a>
+    						
+    							<a  href='/104' class="link_page"><span >54</span></a>
+    						
+    							<a  href='/103' class="link_page"><span >55</span></a>
+    						
+    							<a  href='/102' class="link_page"><span >56</span></a>
+    						
+    							<a  href='/100' class="link_page"><span >57</span></a>
+    						
+    							<a  class="link_page"><span class="selected">58</span></a>
+    						
+    							<a  href='/98' class="link_page"><span >59</span></a>
+    						
+    							<a  href='/97' class="link_page"><span >60</span></a>
+    						
+    							<a  href='/96' class="link_page"><span >61</span></a>
+    						
+    							<a  href='/95' class="link_page"><span >62</span></a>
+    						
+    							<a  class="link_page"><span >&middot;&middot;&middot;</span></a>
+    						
+    							<a  href='/1' class="link_page"><span >141</span></a>
+    						
+                            <a  href='/98' class="btn_next ">Next<span class="ico_skin ico_next"></span></a>
+    					</span>
+						</div>
+					
+				</div>
+			</div>
+		</div>
+		<hr class="hide">
+		<div id="dkFoot" role="contentinfo" class="area_foot">
+			<small class="info_copyright">©ttsdaily.tistory.com</small>
+		</div>
+	</div>
+
+
+
+<script src="https://tistory1.daumcdn.net/tistory/3677124/skin/images/script.js"></script>
+<script type="text/javascript">
+ document.oncontextmenu = new Function ('return false');
+ document.ondragstart = new Function ('return false');
+ document.onselectstart = new Function ('return false');
+  document.body.style.MozUserSelect = 'none';
+</script>
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/plugins/PreventCopyContents/js/functions.js?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18"></script>
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+	if(!wcs_add) var wcs_add = {};
+	wcs_add["wa"] = encodeURI("46015a8397dabc");
+	wcs_do();
+</script><script>
+    (function($) {
+        $("body").bind('copy', function (e) {
+
+            var url = document.location.href,
+                decodedUrl = decodeURI(url),
+                selection = window.getSelection();
+
+
+            if (typeof window.getSelection == "undefined") {//IE8 or earlier...
+                event.preventDefault();
+
+                var pagelink = '\n\n 출처: ' + decodedUrl,
+                    copytext = selection + pagelink;
+
+                if (window.clipboardData) {
+                    window.clipboardData.setData('Text', copytext);
+                }
+                return;
+            }
+            var body_element = document.getElementsByTagName('body')[0];
+
+            //if the selection is short let's not annoy our users
+            if (("" + selection).length < 30) return;
+
+            //create a div outside of the visible area
+            var newdiv = document.createElement('div');
+            newdiv.style.position = 'absolute';
+            newdiv.style.left = '-99999px';
+            body_element.appendChild(newdiv);
+            newdiv.appendChild(selection.getRangeAt(0).cloneContents());
+
+            //we need a <pre> tag workaround
+            //otherwise the text inside "pre" loses all the line breaks!
+            if (selection.getRangeAt(0).commonAncestorContainer.nodeName == "PRE") {
+                newdiv.innerHTML = "<pre>" + newdiv.innerHTML + "</pre>";
+            }
+
+            newdiv.innerHTML += '<br /><br />출처: <a href="' + url + '">' + escapeHTML(decodedUrl) + '</a> [트위티의 IT정보]';
+
+            selection.selectAllChildren(newdiv);
+
+            window.setTimeout(function () {
+                body_element.removeChild(newdiv);
+            }, 200);
+        });
+    })(tjQuery);
+</script>            <script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara.min.js"></script>
+            <script type="text/javascript">window.tiara = {"svcDomain":"user.tistory.com","section":"\uae00\ubdf0","trackPage":"\uae00\ubdf0_\ubcf4\uae30","page":"\uae00\ubdf0","key":"3677124-99","customProps":{"userId":0,"blogId":"3677124","role":"guest","filterTarget":false,"trackPage":"\uae00\ubdf0_\ubcf4\uae30","entryId":"99"},"entry":{"entryId":"99","categoryName":"IT\uc815\ubcf4","categoryId":"880382","author":"4205423","authorId":"4205423","image":"4205423","plink":"\/99","tags":["gif\ub9cc\ub4e4\uae30\uc0ac\uc774\ud2b8","\ub3d9\uc601\uc0c1gif\ub9cc\ub4e4\uae30","\uc0ac\uc9c4\uc73c\ub85cgif\ub9cc\ub4e4\uae30","\uc6c0\uc9e4\ub9cc\ub4e4\uae30"],"key":"3677124-99"},"sentryDsn":"https:\/\/a53520229cd744e798d42900d76b0e2a@aem-collector.daumkakao.io\/713","kakaoAppKey":"b8aef3eeb03fa312b81795386484f051","appUserId":null};</script>
+            <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/script/tiara/tiara.min.js?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18" defer></script>
+                        <script type="text/javascript">
+                window.roosevelt_params_queue = window.roosevelt_params_queue || [{channel_id: 'dk', channel_label: 'tistory'}];
+            </script>
+            <script type="text/javascript" src="//t1.daumcdn.net/midas/rt/dk_bt/roosevelt_dk_bt.js" async></script><script type="text/javascript">if(window.console!=undefined){setTimeout(console.log.bind(console,"%cTISTORY","font:8em Arial;color:#EC6521;font-weight:bold"),0);setTimeout(console.log.bind(console,"%c  나를 표현하는 블로그","font:2em sans-serif;color:#333;"),0);}</script><iframe style="position:absolute;width:1px;height:1px;left:-100px;top:-100px" src="//ttsdaily.tistory.com/api" id="editEntry"></iframe>            <div class="#menubar menu_toolbar  toolbar_rb">
+                                            <h2 class="screen_out">티스토리툴바</h2>
+                                            
+                                       </div>
+                                       <div class="#menubar menu_toolbar  toolbar_rc"><div class='btn_tool btn_tool_type1' id='menubar_wrapper'></div></div>
+                                       <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18/blogs/script/menubar.min.js?_version_=tistory-6577594ba69c1a9fbbd232ff112809a172ec4e18"></script>        <div class="layer_tooltip">
+            <div class="inner_layer_tooltip">
+                <p class="desc_g"></p>
+            </div>
+        </div>
+        <div id="tistoryEtcLayer" class="layer_post"></div><div id="tistorySnsLayer" class="layer_post"></div></body>
+
+</html>
