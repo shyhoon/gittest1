@@ -11,10 +11,10 @@ public class Activity2 extends JFrame{
 	
 	String name;
 	JPanel panel;
-	CallbackCheckPosition checkPosition;
+	CallbackCheckPosition checkPosition;							// 익명클래스가 담긴다
 	
-	// 콜리 (호출자
-	public Activity2(String name) {
+
+	public Activity2(String name) {									// 콜리 (호출자),생성자
 		this.name = name;
 		setSize(500,500);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -30,19 +30,18 @@ public class Activity2 extends JFrame{
 			public void mouseClicked(MouseEvent e) {
 				int x = e.getX();
 				int y = e.getY();
-				// 방어적 코드 필요함
+				// 방어적 코드
 				if (checkPosition != null) {
-					checkPosition.checkosition(x, y);
+					checkPosition.checkPosition(x, y);     // Activity1 익명클래스의 checkPosition메서드 실행
 				}
-				checkPosition.checkosition(x, y);
 			}
-			
 		});
 	}
 	
-	// 메서드를 통해서 연결하기
+	// 메서드를 통해서 연결 // 주소값을 생성자의 매개변수에서 못받는 경우가 생기기도 하는데 그럴경우는 메서드를 통해서 주소값을 받을 수 있다
+	
 	public void setCallbackCheckPosition(CallbackCheckPosition callbackCheckPosition) {
-		this.checkPosition = callbackCheckPosition;
+		this.checkPosition = callbackCheckPosition; 		
 	}
 	
 	
